@@ -9,4 +9,4 @@ Visit our tutorial link @ http://www.androidbegin.com/tutorial/set-an-image-as-w
 
 **Screenshot**
 
-![Set an Image as Wallpaper in Android ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/Wallpaper-Tutorial.png)
+![Set an Image as Wallpaper in Android ScreenShot](http://www.androidbegin.com/wp-content/uploads/2012/09/Wallpaper-Tutorial-ScreenShots.png)
